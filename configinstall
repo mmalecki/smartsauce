@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# fuck you pkgin
+sudo pkgin -y in scmgit vim
