@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 # fuck you pkgin
-sudo pkgin -y in scmgit vim clang git-svn gdb postgresql93-server tcpdump ghc units ImageMagick zsh
+sudo pkgin -y in scmgit vim clang git-svn gdb postgresql93-server tcpdump ghc units ImageMagick zsh irssi
